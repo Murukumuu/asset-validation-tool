@@ -9,6 +9,7 @@ This repository includes the original sketch, clean 3d asset, a deliberate 'brok
   <li>Polycount</li>
   <li>Auto-fix options</li>
   <li>Console and UI-based reporting</li>
-</ul>
+</ul><br>
 Created to explore a Technical Artist role.
+
 # concept-sketch
