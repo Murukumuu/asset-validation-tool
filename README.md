@@ -7,7 +7,7 @@ This repository includes the original sketch, clean 3d asset, a deliberate 'brok
   <li>Transform validation</li>
   <li>Polycount</li>
   <li>Normals flipped</li>
-  <li>Mesh health</li>
+  <li>UV Existence Check</li>
 </ul><br>
 Created to explore a Technical Artist role.
 
