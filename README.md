@@ -5,8 +5,9 @@ This repository includes the original sketch, clean 3d asset, a deliberate 'brok
 <ul>
   <li>Naming convention checks</li>
   <li>Transform validation</li>
-  <li>UV and material checking</li>
   <li>Polycount</li>
+  <li>Normals flipped</li>
+  <li>Mesh health</li>
 </ul><br>
 Created to explore a Technical Artist role.
 
